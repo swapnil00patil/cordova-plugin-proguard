@@ -110,3 +110,18 @@
 -dontwarn android.support.v4.**
 -dontwarn android.net.SSLCertificateSocketFactory
 -dontwarn android.net.http.*
+
+# custom
+-dontwarn javax.naming.directory.DirContext.**
+-dontwarn com.lotusflare.vpn.**
+-dontwarn com.google.android.gms.**
+-dontwarn com.samsung.android.sdk.camera.**
+-dontwarn javax.naming.directory.**
+-dontwarn java.lang.management.**
+-dontwarn org.bouncycastle.**
+-dontwarn org.apache.cordova.CordovaWebViewClient
+-dontwarn javax.naming.**
+-dontwarn com.microblink.library.**
+-dontwarn com.samsung.android.sdk.**
+-dontwarn junit.framework.**
+-dontwarn android.**
