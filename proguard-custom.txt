@@ -126,3 +126,4 @@
 -dontwarn junit.framework.**
 -dontwarn android.**
 -dontwarn com.facetec.zoom
+-dontwarn javax.annotation
