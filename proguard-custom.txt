@@ -125,5 +125,4 @@
 -dontwarn com.samsung.android.sdk.**
 -dontwarn junit.framework.**
 -dontwarn android.**
--dontwarn com.facetec.zoom
--dontwarn javax.annotation
+-dontwarn javax.annotation.**
