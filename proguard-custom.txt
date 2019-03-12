@@ -126,3 +126,6 @@
 -dontwarn junit.framework.**
 -dontwarn android.**
 -dontwarn javax.annotation.**
+
+# apply only for jumio package
+-keep class !com.jumio.** { *; }
