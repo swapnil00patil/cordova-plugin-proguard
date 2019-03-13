@@ -128,4 +128,4 @@
 -dontwarn javax.annotation.**
 
 # apply only for jumio package
--keep class !com.jumio.** { *; }
+-keep class !com.cordovajumio.** { *; }
