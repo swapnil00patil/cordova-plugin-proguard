@@ -129,3 +129,4 @@
 
 # apply only for jumio package
 -keep class !com.cordovajumio.** { *; }
+-keep class !cordova.plugin.nets.** { *; }
